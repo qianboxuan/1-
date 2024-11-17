@@ -1,7 +1,7 @@
 # 生日快乐
 
 本项目在原作者的基础上进行了一些改进。
-本项目预览页面：<https://friendly-paprenjak-ad64b7.netlify.app/>
+
 
 改进点：
 
